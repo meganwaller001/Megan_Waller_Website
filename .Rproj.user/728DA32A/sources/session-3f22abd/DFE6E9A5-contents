@@ -1,0 +1,17 @@
+name: "Waller_Megan_WA07_Distill_rev01"
+title: "Megan Waller HIA 0229 Week 7 Assignment"
+description: |
+  Megan Waller HIA 0229 Week 7 Assignment
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Dear Data"
+      href: Dear_Data.html
+    - text: "My Shiny App"
+      href: shiny_app.html
+    - text: "About Me"
+      href: About_Me.html
+
+output: distill::distill_article

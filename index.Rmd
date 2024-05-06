@@ -1,0 +1,27 @@
+---
+title: "Megan Waller HIA 0229 Week 7 Assignment"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+
+---
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+
+```
+
+
+**Example Data Visualization**
+
+
+
+<img src="Final_Data_Viz_rev_01.png" style="margin10 auto, width:1000px">
+
+
+

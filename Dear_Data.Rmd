@@ -1,0 +1,20 @@
+---
+title: "Dear Data"
+description: |
+  Dear Data was originally a project developed by Data Scientists Giorgia Lupi and Stafanie Posavec to analyze data in their daily lives using a postcard format. In my Data Visualization class (HIA 0229) we used the principles of the Dear Data project to analyze data in our daily lives using the same methods. I chose to evaluate the times I check the time each day for one week.
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<img src="Dear_Data_01.jpg" style="margin10 auto, width:1000px">
+
+<img src="Dear_Data_02.jpg" style="margin10 auto, width:1000px">
+
+
+
+
+

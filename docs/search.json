@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "path": "About_Me.html",
+      "title": "Megan Waller",
+      "author": [],
+      "contents": "\n\n          \n          \n          Megan Waller HIA 0229 Week 7 Assignment\n          \n          \n          Home\n          Dear Data\n          My Shiny App\n          About Me\n          ☰\n          \n          \n      \n        \n          \n            Megan Waller\n          \n          \n            \n              I am a Clinical Laboratory Scientist in the DC Metro\n              area. I am a MPH student at Tufts\n              University School of Medicine, concentrating in\n              Epidemiology and Biostatistics.\n            \n            \n              I am a Clinical Laboratory Scientist in the DC Metro\n              area. I am a MPH student at Tufts\n              University School of Medicine, concentrating in\n              Epidemiology and Biostatistics.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-05-05T21:29:11-04:00"
+    },
+    {
+      "path": "Dear_Data.html",
+      "title": "Dear Data",
+      "description": "Dear Data was originally a project developed by Data Scientists Giorgia Lupi and Stafanie Posavec to analyze data in their daily lives using a postcard format. In my Data Visualization class (HIA 0229) we used the principles of the Dear Data project to analyze data in our daily lives using the same methods. I chose to evaluate the times I check the time each day for one week.\n",
+      "author": [],
+      "contents": "\n\n\n\n\n\n",
+      "last_modified": "2024-05-05T21:28:43-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Megan Waller HIA 0229 Week 7 Assignment",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nExample Data Visualization\n\n\n\n\n",
+      "last_modified": "2024-05-05T21:28:44-04:00"
+    },
+    {
+      "path": "shiny_app.html",
+      "title": "The Best Video Games for your Children, Decided by Parents",
+      "description": "This dashboard can be used to decide the best video games for your children, based on platform, genre, rating, and critic score.\n",
+      "author": [],
+      "contents": "\n\n\n\n\n\n",
+      "last_modified": "2024-05-05T21:28:44-04:00"
+    }
+  ],
+  "collections": []
+}

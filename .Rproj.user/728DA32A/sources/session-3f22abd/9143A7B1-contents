@@ -1,0 +1,18 @@
+---
+title: "The Best Video Games for your Children, Decided by Parents"
+description: |
+  This dashboard can be used to decide the best video games for your children, based on platform, genre, rating, and critic score.
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<iframe src="https://mcginnis.shinyapps.io/VideoGameSelector/" class="1-screen-inset-shaded" height="1000px"></iframe>
+
+
+
+
+

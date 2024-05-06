@@ -1,0 +1,13 @@
+---
+title: "Megan Waller"
+image: "Waller_Megan_Photo.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/megan-waller-6b22118/"
+  - label: Email
+    url: "meganwaller001@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a Clinical Laboratory Scientist in the DC Metro area. I am a MPH student, with concentration in Epidemiology and Biostatistics.
